@@ -43,6 +43,8 @@ The script handles aggregation of smaller timeframe candles into larger interval
 See `requirements.txt` for the necessary Python packages.
 
 ---
+DONATE TO ME, im not a dev but i managed to make it work.
+79vGoijbHkY324wioWsi2uL62dyc1c3H1945Pb71RCVz at Solfare
 
 ### Disclaimer
 
