@@ -1,6 +1,9 @@
 # PocketOptionCandles
 # Pocket Option Candle Aggregator and Trading Bot
 
+https://github.com/ChipaDevTeam/PocketOptionAPI/tree/main/pocketoptionapi
+you will need this file to work properly
+
 This Python script connects to Pocket Option's trading platform using the `BinaryOptionsToolsV2` library to:
 
 - Fetch and aggregate candle (OHLC) data for a selected asset at a user-defined timeframe.
